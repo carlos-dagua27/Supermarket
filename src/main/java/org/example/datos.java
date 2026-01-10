@@ -8,4 +8,5 @@ public class datos {
     public void salida(){
         System.out.println(Nombre + Edad + Documento);
     }
+
 }
